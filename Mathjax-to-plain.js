@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         MathJax to plain
-// @version      0.1
+// @namespace    https://github.com/Senioriousg
+// @version      1.0
 // @description  Convert MathJax2 equation to plain
 // @author       Seniorious
 // @match        *://*/*
+// @updateURL    https://github.com/Senioriousg/MathJax-to-plain/raw/main/Mathjax-to-plain.js
+// @downloadURL  https://github.com/Senioriousg/MathJax-to-plain/raw/main/Mathjax-to-plain.js
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.1/jquery.min.js
 // @grant        none
 // ==/UserScript==
