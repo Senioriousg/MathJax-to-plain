@@ -5,8 +5,8 @@
 // @description  Convert MathJax2 equation to plain
 // @author       Seniorious
 // @match        *://*/*
-// @updateURL    https://github.com/Senioriousg/MathJax-to-plain/raw/main/Mathjax-to-plain.js
-// @downloadURL  https://github.com/Senioriousg/MathJax-to-plain/raw/main/Mathjax-to-plain.js
+// @updateURL    https://github.com/Senioriousg/MathJax-to-plain/raw/main/Mathjax-to-plain.user.js
+// @downloadURL  https://github.com/Senioriousg/MathJax-to-plain/raw/main/Mathjax-to-plain.user.js
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.1/jquery.min.js
 // @grant        none
 // ==/UserScript==
